@@ -10,7 +10,7 @@ def connect_db():
             port="5433",
             dbname="postgres",
             user="suppliers",
-            password="adal",
+            password="Mansur",
             connect_timeout=10,
             sslmode="prefer"
         )
