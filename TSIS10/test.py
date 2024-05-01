@@ -20,7 +20,7 @@ pygame.display.set_caption("Змейка")
 conn = psycopg2.connect(
     dbname='suppliers',
     user='postgres',
-    password='dimash',
+    password='mansur',
     host='localhost'
 )
 cursor = conn.cursor()
